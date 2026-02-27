@@ -111,19 +111,6 @@ bdsp-validator/
     └── logging.py        # Logger configuration
 ```
 
-## Citation
-
-If you use this validator or the BDSP benchmark collection in your research, please cite:
-
-```bibtex
-@article{kletzander2025integrating,
-  title={Integrating Column Generation and Large Neighborhood Search for Bus Driver Scheduling with Complex Break Constraints},
-  author={Kletzander, Lucas and Mannelli Mazzoli, Tommaso and Musliu, Nysret and Van Hentenryck, Pascal},
-  journal={Journal of Artificial Intelligence Research},
-  year={2025}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
